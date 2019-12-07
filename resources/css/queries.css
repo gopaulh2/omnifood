@@ -1,0 +1,113 @@
+
+
+
+/* WIDTH SMALLER THAN PIXEL ROW(1140PX) FROM 1024 TO 1200PX */
+@media only screen and (max-width: 1200px) {
+    .hero-text-box {
+    width: 100%;
+    padding: 0 5%;
+}
+    
+    .row {
+        padding: 0 2%;
+    }
+    
+.logo {
+    margin-left: 2%;
+}
+    
+    .change_width {
+    width: 94%;
+    margin-left: 3%;
+}
+    
+
+    .app-screen {
+    width: 50%;
+}
+    .steps {
+    margin: 0px 100px 50px 0px;
+}
+    .button-app img {
+    height: 55px;
+    width: auto;
+    margin-right: 10px;
+}
+    .step-box {
+    margin-top: 30px;
+}
+    .city_span {
+    width: 95%;
+    margin-right: 1%;
+    margin-left: 4%;
+    text-align: center;
+
+}
+    .city_wok {
+    margin-left: 10px;
+    padding-left: 0px
+        
+}
+.span-test {
+    width: 90%;
+    margin-left: 6%
+}
+    .plan_row {
+    width: 95%;
+    margin-left: 6%;
+}
+
+
+
+}
+
+
+/* IPAD FROM 768 TO 1023PX */
+@media only screen and (max-width: 1023px) {
+    body { font-size: 18px;}
+    section { padding: 60px 0;}
+    
+.long-copy {
+    width: 80%;
+    margin-left: 10%;
+}
+    .big {
+    color: black;
+}
+    .main-nav li {
+    font-size: 96%
+    }
+    
+    .sticky .main-nav
+     {
+    margin-top: -35px;
+}
+     .steps:last-of-type,
+     .you-better-work {
+        margin-right: 15px
+    }
+     .steps:first-of-type{
+    margin-right: 14px
+ }
+    .titlee {
+        font-size: 105%
+    }
+    .box img {
+    width: 100%;
+}
+    
+}
+
+/* SMALL PHONES TO SMALL TABLETS FROM 481 TO 767PX */
+@media only screen and (max-width: 767px) {
+        .big {
+    color: darkred;
+            
+}
+
+/* SMALL PHONES FROM 0-480 PX*/
+@media only screen and (max-width: 480px) {
+    
+}
+
+
